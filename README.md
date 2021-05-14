@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hardikchavda
-- 👀 I’m interested in ... Website Developer
+- 👀 I’m interested in ... Website Development
 - 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... Sundays
 - 📫 How to reach me ... https://t.me/hardikchavda
