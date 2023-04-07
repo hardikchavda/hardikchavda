@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hardikchavda
 - 👀 I’m interested in ... Website Development
-- 🌱 I’m currently learning ... CodeIgniter 4
+- 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... Sundays
 - 📫 How to reach me ... https://t.me/hardikchavda and http://hardikchavda.in
 
